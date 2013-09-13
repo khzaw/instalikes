@@ -1,0 +1,1 @@
+A simple python script to like all the media of a given Instagram user. Utilizing [python-instagram](https://github.com/Instagram/python-instagram "Python-Instagram") , a wrapper written in Python by [Instagram](http://www.instagram.com "Instagram") .
